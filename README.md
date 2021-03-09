@@ -1,2 +1,2 @@
 # 项目简介
-移动端自动化测试框架uiautomator2+python脚本语言
+脚本语言python + 移动端自动化测试框架uiautomator2
